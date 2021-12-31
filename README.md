@@ -1,11 +1,13 @@
 Olá!
-Eu sou Alex Gross
+Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
 
 <!-- Apresentação -->
 
-- 🔭 Hoje trabalho com Desenvolvimento Front-end
-- 🌱 Estudando novas tecnologias como: UI/Disigner (FIGMA E INVISIBLE), Flutter e C# .NET
-- 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade ✨✨✨✨✨✨✨
+- 🔭 Atualmente trabalho como análista de TI onde desenvolvo trabalhos em VBA, <br> JavaScrip e com uso de ferramentas Osisoft (PI ProcessBook, PI Vision, Datalink)
+- 🌱 Estudando novas tecnologias como: Python, Grafana e modelagem de Dados
+- Além de meus trabalho principal, desenvolvo sites e Criador de Landing Pages (HTML, CSS, JS BootStrap)
+- Sou apaixonado pela programação e a cada dia aprendo mais!!!!!
+
 
 <!-- Painel de Trabalhos -->
 <div>
