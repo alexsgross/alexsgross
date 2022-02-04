@@ -50,7 +50,6 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
     
   <h3> Desenvolvimento Mobile </h3>  
   
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
    <hr>
   
    <h3> IDE </h3>  
