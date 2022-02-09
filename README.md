@@ -3,8 +3,8 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
 
 <!-- Apresentação -->
 
-- 🔭 Atualmente trabalho como análista de TI onde desenvolvo trabalhos em VBA, <br> JavaScrip e com uso de ferramentas Osisoft (PI ProcessBook, PI Vision, Datalink)
-- 🌱 Estudando novas tecnologias como: Python, Grafana e modelagem de Dados
+- 🔭 Atualmente trabalho como análista de TI,uso de ferramentas Osisoft (PI ProcessBook, PI Vision, Datalink)
+- 🌱 Estudando novas tecnologias como:Angular, JavaScript, TypeScript, Python, e modelagem de Dados
 - Além de meus trabalho principal, desenvolvo sites e Criador de Landing Pages (HTML, CSS, JS BootStrap)
 - Sou apaixonado pela programação e a cada dia aprendo mais!!!!!
 
