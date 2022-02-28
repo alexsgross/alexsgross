@@ -40,6 +40,9 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
   <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
   
   <hr>
+     <h3> Desenvolvimento Mobile </h3>
+    
+  <hr>  
   
   <h3> UI/UX Designer </h3>
     
@@ -48,9 +51,9 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
  
   <hr>
     
-  <h3> Desenvolvimento Mobile </h3>  
+ 
   
-   <hr>
+ 
   
    <h3> IDE </h3>  
   
