@@ -42,7 +42,9 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
      <h3> FrameWork </h3>
     <img align="center" alt="bootstrp" height="30" width="40"               src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
     
-   <h3> FrameWork </h3>
+    <img align="center" alt="bootstrp" height="30" width="40"               src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+    
+   <h3> Biblioteca </h3>
     <img align="center" alt="bootstrp" height="30" width="40"               src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <hr>  
   
