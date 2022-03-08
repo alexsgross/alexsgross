@@ -7,7 +7,7 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
 - Desenvolvedor Frontend em Tecnologias como: React Js, além de Html, Css, JS, BootStrap
 - Desenvolvedor Backend: Python e JavaScrip
 - Estudando novas tecnologias como: Node, MongoDB, HOOK, Aplicações com API.
-- Sou apaixonado por programação o que me faz querer aprender e participar de novos desafios a cada dia!
+- Sou apaixonado por programação o que me faz querer aprender e participar de novos desafios a cada dia!<br>
 
 
 <!-- Painel de Trabalhos -->
@@ -66,10 +66,3 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
   <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
   <br>
    <hr>
-     
- 
-  
- 
-
- 
- 
