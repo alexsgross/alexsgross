@@ -3,10 +3,11 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
 
 <!-- Apresentação -->
 
-- 🔭 Atualmente trabalho como análista de TI,uso de ferramentas Osisoft (PI ProcessBook, PI Vision, Datalink)
-- 🌱 Estudando novas tecnologias como:Angular, JavaScript, TypeScript, Python, e modelagem de Dados
-- Além de meus trabalho principal, desenvolvo sites e Criador de Landing Pages (HTML, CSS, JS BootStrap)
-- Sou apaixonado pela programação e a cada dia aprendo mais!!!!!
+- Sou analista de TI na Vixteam Consultoria de sistemas,
+- Desenvolvedor Frontend em Tecnologias como: React Js, além de Html, Css, JS, BootStrap
+- Desenvolvedor Backend: Python e JavaScrip
+- Estudando novas tecnologias como: Node, MongoDB, HOOK, Aplicações com API.
+- Sou apaixonado por programação o que me faz querer aprender e participar de novos desafios a cada dia!
 
 
 <!-- Painel de Trabalhos -->
@@ -66,12 +67,9 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
   <br>
    <hr>
      
-  <!-- Contador de visitas -->
+ 
   
-  <h3> Visitantes </h3>  
-  <div>
-    <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=alexsgross&color=green" alt="alexsgross" /> <br>
-  </div>  
+ 
 
  
  
