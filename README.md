@@ -3,7 +3,7 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
 
 <!-- Apresentação -->
 
-- Sou analista de TI na Vixteam Consultoria de sistemas,
+-<h3> Sou analista de TI na Vixteam Consultoria de sistemas</h3>
 - Desenvolvedor Frontend em Tecnologias como: React Js, além de Html, Css, JS, BootStrap
 - Desenvolvedor Backend: Python e JavaScrip
 - Estudando novas tecnologias como: Node, MongoDB, HOOK, Aplicações com API.
@@ -54,11 +54,7 @@ Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
   <img align="center" alt="protoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg">
  
-  <hr>
-    
- 
-  
- 
+  <hr> 
   
    <h3> IDE </h3>  
   
