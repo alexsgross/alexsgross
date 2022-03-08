@@ -3,11 +3,11 @@
 
 <!-- Apresentação -->
 
-- <h3> Sou analista de TI na Vixteam Consultoria de sistemas </h3>
-- <h3> Desenvolvedor Frontend em Tecnologias como: React Js, além de Html, Css, JS, BootStrap </h3>
-- <h3> Desenvolvedor Backend: Python e JavaScrip </h3>
-- <h3> Estudando novas tecnologias como: Node, MongoDB, HOOK, Aplicações com API. </h3>
-- <h3> Sou apaixonado por programação o que me faz querer aprender e participar de novos desafios a cada dia! </h3> <br> 
+- <h4> Sou analista de TI na Vixteam Consultoria de sistemas </h4>
+- <h4> Desenvolvedor Frontend em Tecnologias como: React Js, além de Html, Css, JS, BootStrap </h4>
+- <h4> Desenvolvedor Backend: Python e JavaScrip </h4>
+- <h4> Estudando novas tecnologias como: Node, MongoDB, HOOK, Aplicações com API. </h4>
+- <h4> Sou apaixonado por programação o que me faz querer aprender e participar de novos desafios a cada dia! </h4> <br> 
 
 
 <!-- Painel de Trabalhos -->
