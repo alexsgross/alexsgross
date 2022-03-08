@@ -1,13 +1,13 @@
 Olá!
-Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub!
+</h2> Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub! </h2>
 
 <!-- Apresentação -->
 
--<h3> Sou analista de TI na Vixteam Consultoria de sistemas</h3>
-- Desenvolvedor Frontend em Tecnologias como: React Js, além de Html, Css, JS, BootStrap
-- Desenvolvedor Backend: Python e JavaScrip
-- Estudando novas tecnologias como: Node, MongoDB, HOOK, Aplicações com API.
-- Sou apaixonado por programação o que me faz querer aprender e participar de novos desafios a cada dia!<br>
+- <h3> Sou analista de TI na Vixteam Consultoria de sistemas </h3>
+- <h3> Desenvolvedor Frontend em Tecnologias como: React Js, além de Html, Css, JS, BootStrap </h3>
+- <h3> Desenvolvedor Backend: Python e JavaScrip </h3>
+- <h3> Estudando novas tecnologias como: Node, MongoDB, HOOK, Aplicações com API. </h3>
+- <h3> Sou apaixonado por programação o que me faz querer aprender e participar de novos desafios a cada dia! </h3> <br> 
 
 
 <!-- Painel de Trabalhos -->
