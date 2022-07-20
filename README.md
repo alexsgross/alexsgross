@@ -4,6 +4,12 @@
 
 - <h4> Sou analista de TI </h4>
 
+  <a href = "mailto:alexsgross@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alexsgross/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5524992358368" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+                                                                                     
+ <br>
+
 <!-- Painel de Trabalhos -->
 <div>
   <a href="https://github.com/alexsgross">
@@ -13,11 +19,7 @@
 <!-- Contatos  -->
   
   <div>      
-  <a href = "mailto:alexsgross@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexsgross/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5524992358368" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-                                                                                     
- <br>
+
   
 <!-- Tecnologias -->  
   
