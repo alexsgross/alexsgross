@@ -1,5 +1,4 @@
-<h2>Olá!</h2>
-<h2> Eu sou Alex Sandro Gross </h2>
+<h2>Olá! Eu sou Alex Sandro Gross </h2>
 
 <!-- Apresentação -->
 
