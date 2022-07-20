@@ -1,5 +1,5 @@
 <h2>Olá!</h2>
-<h2> Eu sou Alex Sandro Gross e seja bem vindo ao meu GitHub! </h2>
+<h2> Eu sou Alex Sandro Gross </h2>
 
 <!-- Apresentação -->
 
